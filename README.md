@@ -86,7 +86,7 @@ Follow these steps to run the project locally:
  ## Client
 ### 1 Clone the Client Repository  
 ```
-git clone https://github.com/mdimranictiu/Chatify-Client.git
+git clone https://github.com/Mulanisafa/Chatify-Client.git
 cd Chatify-Client
 ```
 
@@ -101,7 +101,7 @@ npm run dev
  ## Server
 ### 1 Clone the Server Repository  
 ```
-git clone https://github.com/mdimranictiu/Chatify-Server.git
+git clone https://github.com/Mulanisafa/Chatify-Server.git
 cd Chatify-Server
 ```
 
